@@ -4,7 +4,7 @@ Example of 3D cube with Kivy in Python.
 
 ## Description
 
-This project demonstrates how to create a 3D cube using the Kivy framework in Python. Kivy is an open-source Python library for developing multitouch applications. This example showcases basic 3D rendering and interaction.
+This project demonstrates how to create a 3D cube using the Kivy framework in Python. Kivy is an open-source Python library for developing multitouch applications. This example showcases basic 3D rendering and interaction without using OpenGL or shaders.
 
 ## Requirements
 
