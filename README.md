@@ -24,7 +24,7 @@ This project demonstrates how to create a 3D cube using the Kivy framework in Py
     ```
 3. Install the required dependencies:
     ```sh
-    pip install kivy
+    pip install -r requirements.txt
     ```
 
 ## Usage
