@@ -10,6 +10,7 @@ This project demonstrates how to create a 3D cube using the Kivy framework in Py
 
 - Python 3.x
 - Kivy
+- Numpy
 
 ## Installation
 
